@@ -1,6 +1,9 @@
 👋 Hi, I’m Maaz Ekkiswala, a Full Stack Developer with expertise in Python, Django, Flask, FastAPI, React, and Next.js.
+
 👀 Passionate about building scalable web applications and backend systems.
+
 🌱 Currently exploring Data Science to expand my knowledge in AI and analytics.
+
 📫 Reach me at maazekkiswala8758@gmail.com
 
 💼 Tech Stack: Python | Django | Flask | FastAPI | React | Next.js | PostgreSQL | MongoDB | AWS | Docker | Git | PostMan | RESTAPI
